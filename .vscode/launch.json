@@ -4,13 +4,11 @@
     // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Iniciar Chrome para localhost",
-            "url": "C:/Users/Leo_z/Desktop/Programacion Leo/RepoPortfolio/HTML/index.html",
-            "webRoot": "${workspaceFolder}"
+            "name": "Open index",
+            "file": "c:\\Users\\leo_z\\Leo - Programacion\\index.html"
         }
     ]
 }
